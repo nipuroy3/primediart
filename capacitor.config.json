@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Primediart",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

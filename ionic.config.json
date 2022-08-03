@@ -1,0 +1,8 @@
+{
+  "name": "Primediart",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d9eca2a6"
+}
